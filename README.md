@@ -21,6 +21,8 @@ devido a bugs na versão mais recente, "google.gms.services" é um exemplo.
 
 OBS3: Devido ao fato do meu bando de dados estar ligado a minha conta google, quem usa não poder ver o banco de dados e a autenticação: caso queiram uma prova basta enviar uma mensagem pedindo o print das mesmas:
 
+OBS4: Não sera possivel fazer o login sem ter uma conta criada!!!
+
 Abaixo em anexo imagens do banco e da autenticação:
 
 ![image](https://github.com/LeonardoRenoldi/TCC_E-commerce_APP/assets/95914933/3c41be33-8f9c-4af4-8b1d-19d62ff70d98)
