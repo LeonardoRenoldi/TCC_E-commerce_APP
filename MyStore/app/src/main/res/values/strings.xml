@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyStore</string>
+    <string name="intro_line">A solução facil para compras online</string>
+    <string name="intro_second_line">A loja agora nas suas mãos!!!</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_new_User">Sing Up</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="user_login">USER LOGIN</string>
+    <string name="user_Registration">New User Registration</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email_adress">Email adress</string>
+    <string name="password">Password</string>
+    <string name="Confirm_password">Confirm Password</string>
+    <string name="contact_number">Contact number</string>
+    <string name="btn_register">Register</string>
+    <string name="value_200">200$</string>
+    <string name="popular_products">Popular Products</string>
+</resources>
