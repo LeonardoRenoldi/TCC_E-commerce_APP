@@ -19,7 +19,7 @@ para resolver isso basta copiar o caminho da pasta do app e colar no "graddle.pr
 OBS2: não faça update de nenhuma dependencia do app, algumas delas tiveram que ser reduzidas(usar uma versão anterior)
 devido a bugs na versão mais recente, "google.gms.services" é um exemplo.
 
-OBS3: Devido ao fato do meu bando de dados estar ligado a minha conta google, quem usa não poder ver o banco de dados e a autenticação: caso queiram uma prova basta enviar uma mensagem pedindo o print das mesmas:
+OBS3: Devido ao fato do meu banco de dados estar ligado a minha conta google, quem usa não poder ver o banco de dados e a autenticação: caso queiram uma prova basta enviar uma mensagem pedindo o print das mesmas:
 
 OBS4: Não sera possivel fazer o login sem ter uma conta criada!!!
 
