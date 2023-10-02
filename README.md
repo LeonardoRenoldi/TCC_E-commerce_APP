@@ -6,8 +6,13 @@ Aplicativo "Braces Shop"
 Esse app é uma simulação de um loja de Ecommerce, nele esta incluso:
 
 Tela de Login
+
+
 Tela do Shop
+
+
 Tela de Criação de conta
+
 Telas com descrições dos produtos
 
 para rodar baster o android studio instalado
