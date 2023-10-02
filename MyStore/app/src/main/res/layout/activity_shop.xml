@@ -33,7 +33,7 @@
             android:layout_height="wrap_content"
             android:text="DRONE"
             android:textStyle="bold"
-            android:textColor="@color/black"
+
             android:textSize="20sp"/>
 
         <TextView
@@ -41,7 +41,7 @@
             android:layout_height="wrap_content"
             android:text="Eletronic Products"
             android:layout_marginTop="5dp"
-            android:textColor="@color/black"
+
             android:textSize="14sp"/>
 
     </LinearLayout>
@@ -88,7 +88,7 @@
                     android:layout_height="wrap_content"
                     android:text="CONTROL DRONE"
                     android:textSize="18dp"
-                    android:textColor="@color/black"/>
+                   />
                 <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -139,7 +139,7 @@
                 android:layout_height="wrap_content"
                 android:text="$250"
                 android:textSize="18sp"
-                android:textColor="@color/black"
+
                 android:layout_alignParentEnd="true"
                 android:layout_centerVertical="true"/>
 
@@ -188,7 +188,8 @@
                         android:gravity="center"
                         android:background="@drawable/white_border"
                         android:padding="8dp">
-                        <ImageView
+                        <ImageButton
+                            android:id="@+id/pc_page"
                             android:layout_width="120dp"
                             android:layout_height="100dp"
                             android:scaleType="centerCrop"
@@ -228,7 +229,8 @@
                         android:gravity="center"
                         android:background="@drawable/white_border"
                         android:padding="8dp">
-                        <ImageView
+                        <ImageButton
+                            android:id="@+id/ac_page"
                             android:layout_width="120dp"
                             android:layout_height="100dp"
                             android:scaleType="centerCrop"
@@ -268,7 +270,8 @@
                         android:gravity="center"
                         android:background="@drawable/white_border"
                         android:padding="8dp">
-                        <ImageView
+                        <ImageButton
+                            android:id="@+id/phone_page"
                             android:layout_width="120dp"
                             android:layout_height="100dp"
                             android:scaleType="centerCrop"

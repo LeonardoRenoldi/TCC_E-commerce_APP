@@ -17,4 +17,21 @@
     <string name="btn_register">Register</string>
     <string name="value_200">200$</string>
     <string name="popular_products">Popular Products</string>
+    <string name="laptop_desc">
+        RAM:16GB
+        HD:1Tera
+        Este incrivel PC ofereceum equilibrio perfeito entre desempenho e versatilidade.
+        Com um processador quad-croe de ultima geração,16GB de RAM e
+        e uma placa de video dedicada.
+    </string>
+    <string name="iphone_desc">
+        O iphone 13 é o a epitome da elegância e inovação. Com seu desing
+        sofisticado e tela Super Retina XDR, suas imagens ganham vida com
+        cores vibrantes e detalhes impresionantes.
+    </string>
+    <string name="ac_desc">
+        Este aparelho foi projeta para proporcionar conforto máximo
+        em qualquer ambiente. Com uma capacidade poderoza de refrigeração
+        ele mantem seu espaço fresco até nos dias mais quentes.
+    </string>
 </resources>
